@@ -1,0 +1,10 @@
+/Users/trachman/Documents/Repository/Repository-TestCandidated/Test-Nutech/SIMS-PPOB-Parent/SIMS-PPOB-dao/src/main/java/com/nutech/test/sims/ppob/dao/model/history/TransactionHistoryEntity.java
+/Users/trachman/Documents/Repository/Repository-TestCandidated/Test-Nutech/SIMS-PPOB-Parent/SIMS-PPOB-dao/src/main/java/com/nutech/test/sims/ppob/dao/model/master/BannerEntity.java
+/Users/trachman/Documents/Repository/Repository-TestCandidated/Test-Nutech/SIMS-PPOB-Parent/SIMS-PPOB-dao/src/main/java/com/nutech/test/sims/ppob/dao/model/master/ServicePPOBEntity.java
+/Users/trachman/Documents/Repository/Repository-TestCandidated/Test-Nutech/SIMS-PPOB-Parent/SIMS-PPOB-dao/src/main/java/com/nutech/test/sims/ppob/dao/model/transaction/TransactionEntity.java
+/Users/trachman/Documents/Repository/Repository-TestCandidated/Test-Nutech/SIMS-PPOB-Parent/SIMS-PPOB-dao/src/main/java/com/nutech/test/sims/ppob/dao/model/user/UserEntity.java
+/Users/trachman/Documents/Repository/Repository-TestCandidated/Test-Nutech/SIMS-PPOB-Parent/SIMS-PPOB-dao/src/main/java/com/nutech/test/sims/ppob/repository/BannerRepository.java
+/Users/trachman/Documents/Repository/Repository-TestCandidated/Test-Nutech/SIMS-PPOB-Parent/SIMS-PPOB-dao/src/main/java/com/nutech/test/sims/ppob/repository/ServiceRepository.java
+/Users/trachman/Documents/Repository/Repository-TestCandidated/Test-Nutech/SIMS-PPOB-Parent/SIMS-PPOB-dao/src/main/java/com/nutech/test/sims/ppob/repository/TransactionHistoryRepository.java
+/Users/trachman/Documents/Repository/Repository-TestCandidated/Test-Nutech/SIMS-PPOB-Parent/SIMS-PPOB-dao/src/main/java/com/nutech/test/sims/ppob/repository/TransactionRepository.java
+/Users/trachman/Documents/Repository/Repository-TestCandidated/Test-Nutech/SIMS-PPOB-Parent/SIMS-PPOB-dao/src/main/java/com/nutech/test/sims/ppob/repository/UserRepository.java
